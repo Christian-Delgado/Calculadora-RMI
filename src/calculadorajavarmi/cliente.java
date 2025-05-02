@@ -24,6 +24,7 @@ public class cliente {
             
             while(true){
                 String menu = JOptionPane.showInputDialog("     Calculadora\n\n"
+                        + "Esta es la mejor calculadora\n"
                         + "Ingrese [1]..SUMAR\n"
                         + "Ingrese [2]..RESTAR\n"
                         + "Ingrese [3]..MULTIPLICAR\n"
