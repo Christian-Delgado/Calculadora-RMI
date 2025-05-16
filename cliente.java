@@ -24,7 +24,11 @@ public class cliente {
             
             while(true){
                 String menu = JOptionPane.showInputDialog("     Calculadora\n\n"
+<<<<<<< HEAD
                         + "Este es un error cometido a proposito\n"
+=======
+                        + "Esta es la mejor calculadora de todas las calcs\n"
+>>>>>>> parent of e689d14 (Merge branch 'Rama-Desarrollador-Y' into Rama-desarrollador-X)
                         + "Ingrese [1]..SUMAR\n"
                         + "Ingrese [2]..RESTAR\n"
                         + "Ingrese [3]..MULTIPLICAR\n"
